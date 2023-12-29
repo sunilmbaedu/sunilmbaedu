@@ -2,30 +2,19 @@
 <h3 align="center">A passionate Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilmbaedu&label=Profile%20views&color=0e75b6&style=flat" alt="sunilmbaedu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilmbaedu" alt="sunilmbaedu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sunilmbaedu" target="blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
 
-- 🔭 I’m currently working on [ASD](ASD)
+- 🔭 I’m currently working on PowerBI.
 
-- 🌱 I’m currently learning **SQL, PowerBI**
+- 🌱 I’m currently learning **SQL, PowerBI**.
 
-- 👯 I’m looking to collaborate on [111](111)
+- 👨‍💻 All of my projects are available at  https://github.com/sunilmbaedu
 
-- 🤝 I’m looking for help with [222](22)
+- 💬 Ask me about **HTML | CSS | JAVASCRIPT | Video Editing | Graphic Designing**
 
-- 👨‍💻 All of my projects are available at [666](666)
+- 📫 How to reach me **sunilkumar796311@gmail.com**
 
-- 📝 I regularly write articles on [777](777)
-
-- 💬 Ask me about **444**
-
-- 📫 How to reach me **555**
-
-- 📄 Know about my experiences [888](888)
-
-- ⚡ Fun fact **999**
+- 📄 Personal Site: https://www.sunilrajpoot.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
