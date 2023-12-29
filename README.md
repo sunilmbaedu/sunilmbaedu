@@ -38,7 +38,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilmbaedu&show_icons=true&locale=en&layout=compact" alt="sunilmbaedu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilmbaedu&show_icons=true&locale=en" alt="sunilmbaedu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilmbaedu&" alt="sunilmbaedu" /></p>
