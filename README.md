@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilmbaedu&label=Profile%20views&color=0e75b6&style=flat" alt="sunilmbaedu" /> </p>
-<p align="left"> <a href="https://twitter.com/sunilmbaedu" target="blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sunilmbaedu" target="_blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
 
 - 🔭 I’m currently working on PowerBI.
 
