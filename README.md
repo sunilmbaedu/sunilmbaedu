@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SQL, PowerBI**.
 
-- 👨‍💻 All of my projects are available at  https://github.com/sunilmbaedu
+- 👨‍💻 All of my projects are available at <a href="https://github.com/sunilmbaedu" target="_blank">GitHub.com/Sunilmbaedu</a>
 
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | Video Editing | Graphic Designing**
 
