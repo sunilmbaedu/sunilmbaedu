@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sunilkumar796311@gmail.com**
 
-- 📄 Personal Site: <a href="https://www.sunilrajpoot.com" target="_blank">www.sunilrajpoot.com</a>
+- 📄 Personal Site: <a href="https://www.sunilrajpoot.site" target="_blank">www.sunilrajpoot.site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
