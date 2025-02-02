@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil</h1>
-<h3 align="center">A passionate Analyst</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilmbaedu&label=Profile%20views&color=0e75b6&style=flat" alt="sunilmbaedu" /> </p>
 <p align="left"> <a href="https://twitter.com/sunilmbaedu" target="_blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/sunilmbaedu" target="_blank">GitHub.com/Sunilmbaedu</a>
 
-- 💬 Ask me about **HTML | CSS | JAVASCRIPT | Video Editing | Graphic Designing**
+- 💬 Ask me about **Power BI | Tableau | Advance Excel | HTML | CSS | JAVASCRIPT | Video Editing | Graphic Designing**
 
 - 📫 How to reach me **sunilkumar796311@gmail.com**
 
