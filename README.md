@@ -41,8 +41,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/f08c71a3-1c7e-4899-a087-5f73dccb75b4" alt="illustrator" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 <p align="left">
-a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e1f0b0f0-0e72-4514-b6ad-362043aabd83" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;
-a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/625ab84e-5275-4d5c-a147-570ae46ac60d" alt="Tableau" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e1f0b0f0-0e72-4514-b6ad-362043aabd83" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/625ab84e-5275-4d5c-a147-570ae46ac60d" alt="Tableau" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 
 
