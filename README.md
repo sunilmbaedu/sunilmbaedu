@@ -30,6 +30,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/d23fc859-f725-4b37-b947-fa003991212c" alt="HTML" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/4e63bc63-e2c6-41e9-805d-8cc8441408ca" alt="CSS" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql](https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fddecce7-3cfb-4d9e-9f70-dff9158f2ece" alt="MySQL" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python](https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4ba5b21d-4976-4799-9c2c-1a1b355b6a39" alt="Python" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="left">Tools:</h3>
