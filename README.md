@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sunilmbaedu" target="_blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
 
-- 🔭 I’m currently working on PowerBI.
+- 🔭 I’m currently working on PowerBI and Tableau.
 
-- 🌱 I’m currently learning **SQL, PowerBI**.
+- 🌱 I’m currently learning **SQL, Tableau**.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/sunilmbaedu" target="_blank">GitHub.com/Sunilmbaedu</a>
 
