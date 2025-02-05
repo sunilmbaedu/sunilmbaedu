@@ -29,14 +29,15 @@
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/d23fc859-f725-4b37-b947-fa003991212c" alt="HTML" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/4e63bc63-e2c6-41e9-805d-8cc8441408ca" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql](https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fddecce7-3cfb-4d9e-9f70-dff9158f2ece" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/python](https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4ba5b21d-4976-4799-9c2c-1a1b355b6a39" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
 
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>&nbsp;&nbsp;
+<p align="left"> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/d88b11b7-d154-4f99-9b47-907bef2ea393" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/28f4adc5-ff5f-4602-8918-b01e0a6eaf47" alt="After Effects" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/9177309c-4eae-4555-8ba7-2ef6e10751a7" alt="Premiere Pro" width="40" height="40"/></a>&nbsp;&nbsp;
