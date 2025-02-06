@@ -43,7 +43,7 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/9177309c-4eae-4555-8ba7-2ef6e10751a7" alt="Premiere Pro" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/97670ff4-b263-40cb-a7b5-776d60743787" alt="Indesign" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sunilmbaedu/sunilmbaedu/assets/154014386/f08c71a3-1c7e-4899-a087-5f73dccb75b4" alt="illustrator" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/12d46f54-f00c-4b53-a4fa-a61a835fb228)" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/12d46f54-f00c-4b53-a4fa-a61a835fb228" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;
 
 </p>
 
