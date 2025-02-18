@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunil</h1>
+<h1 align="center">Hi 👋, I'm Sunil Rajpoot</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/sunilmbaedu" target="_blank"><img src="https://img.shields.io/twitter/follow/sunilmbaedu?logo=twitter&style=for-the-badge" alt="sunilmbaedu" /></a> </p>
